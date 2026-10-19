@@ -28,9 +28,9 @@ India-Stocks-121-150-Historical-Data/
 ## 📊 Dataset Overview
 - **Constituents:** 30 Benchmark Companies (Rank 121 to 150)
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Archived Daily Files:** `360` sessions
-- **Total 1-Minute Candles:** `129,945` candles
-- **Last Ingested:** `2026-10-16 17:23:31 UTC`
+- **Total Archived Daily Files:** `390` sessions
+- **Total 1-Minute Candles:** `140,796` candles
+- **Last Ingested:** `2026-10-19 16:58:15 UTC`
 - **Trading Sessions:** Monday – Friday, 09:15 to 15:30 IST (03:45 to 10:00 UTC)
 
 ---
